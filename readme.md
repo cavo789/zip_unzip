@@ -1,6 +1,6 @@
-![Banner](images/banner.jpg)
-
 # Zip
+
+![Banner](./banner.svg)
 
 > Need a simple script to take an archive of your website. The repository contains a script to create a ZIP archive of a website (or part of it).
 
